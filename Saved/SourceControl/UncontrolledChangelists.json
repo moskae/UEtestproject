@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/Spaceship.umap",
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/_GENERATED/moskae/Box_E96EE1EE.uasset",
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/_GENERATED/moskae/Path_2D65FE1C.uasset",
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/_GENERATED/moskae/Path_46837B4F.uasset",
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/_GENERATED/moskae/Path_7A7E36FF.uasset",
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/_GENERATED/moskae/Sphere_54CC4E65.uasset",
+				"/media/moskae/ssd_storage/ueProjects/UE_TestProject/Content/Levels/_GENERATED/moskae/Stairs_55D560D9.uasset",
+				"/home/moskae/documents/Unreal Projects/UE_TestProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+			]
+		}
+	]
+}
